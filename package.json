@@ -1,6 +1,6 @@
 {
   "name": "resolve-last",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "Created by create-n",
   "main": "lib/index.js",
   "types": "lib/index.d.js",

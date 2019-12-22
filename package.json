@@ -1,7 +1,14 @@
 {
   "name": "resolve-last",
   "version": "0.0.1",
-  "description": "Created by create-n",
+  "description": "👌Only resolve last promise",
+  "keywords": [
+    "resolve-last-promise",
+    "only-resolve-last-promise",
+    "only-resolve-last",
+    "resolve-only-last",
+    "resolve-only-last-promise"
+  ],
   "main": "lib/index.js",
   "types": "lib/index.d.js",
   "scripts": {
